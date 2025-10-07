@@ -1,7 +1,7 @@
 <div align="center">
 
-# 📊 ScorePy  
-### Herramienta de Análisis Educativo
+# 📊 ScorePy
+## Herramienta de Análisis Educativo
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/scorepydark.jpeg" />
@@ -15,6 +15,7 @@
 
 </div>
  
+
 
 
 
