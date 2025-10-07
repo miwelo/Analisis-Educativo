@@ -32,7 +32,8 @@ Esta herramienta posee una serie de analisis predeterminados a base de un formul
 - Recursos de Estudio mas utilizados
 - Frecuencia de repasos por semana
 - Sentimiento del estudiante en base a promedio
-Debajo de cada reporte se genera un comentario indicando el elemento con mayor valor
+> Debajo de cada reporte se genera un comentario indicando el elemento con mayor valor
 ---
+
 
 
