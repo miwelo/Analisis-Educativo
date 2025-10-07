@@ -118,30 +118,45 @@ Este proyecto está bajo la licencia **MIT** — ver el archivo [LICENSE](LICENS
 
 ## 👥 Autores
 
-<p align="center">
-  <a href="https://github.com/miwelo">
-    <img src="https://github.com/miwelo.png" width="90" height="90" style="border-radius:50%;" alt="Miguel Inoa">
-    <br><sub><b>Miguel Inoa</b></sub>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/aslyninmateo">
-    <img src="https://github.com/aslyninmateo.png" width="90" height="90" style="border-radius:50%;" alt="Asly Nin">
-    <br><sub><b>Asly Nin</b></sub>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/francisco983412">
-    <img src="https://github.com/francisco983412.png" width="90" height="90" style="border-radius:50%;" alt="Francisco Concepción">
-    <br><sub><b>Francisco Concepción</b></sub>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/BrahyanPro">
-    <img src="https://github.com/BrahyanPro.png" width="90" height="90" style="border-radius:50%;" alt="Brahyan Martínez">
-    <br><sub><b>Brahyan Martínez</b></sub>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/AngelDiaz">
-    <img src="https://github.com/AngelDiaz.png" width="90" height="90" style="border-radius:50%;" alt="Angel Díaz">
-    <br><sub><b>Angel Díaz</b></sub>
-  </a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/miwelo">
+          <img src="https://github.com/miwelo.png" width="100" height="100" style="border-radius:50%;" alt="Miguel Inoa"><br>
+          <sub><b>Miguel Inoa</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/aslyninmateo">
+          <img src="https://github.com/aslyninmateo.png" width="100" height="100" style="border-radius:50%;" alt="Asly Nin"><br>
+          <sub><b>Asly Nin</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/francisco983412">
+          <img src="https://github.com/francisco983412.png" width="100" height="100" style="border-radius:50%;" alt="Francisco Concepción"><br>
+          <sub><b>Francisco Concepción</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/BrahyanPro">
+          <img src="https://github.com/BrahyanPro.png" width="100" height="100" style="border-radius:50%;" alt="Brahyan Martínez"><br>
+          <sub><b>Brahyan Martínez</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Melquiiii11">
+          <img src="https://github.com/Melquiiii11.png" width="100" height="100" style="border-radius:50%;" alt="Angel Díaz"><br>
+          <sub><b>Angel Díaz</b></sub>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
+
 
 
 
