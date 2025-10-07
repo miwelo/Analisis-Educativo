@@ -6,7 +6,8 @@
 
 # 📊 ScorePy - Herramienta de Analisis Educativo
 
-[![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/downloads)  
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
-[![Status](https://img.shields.io/badge/Status-Active-success.svg)]()
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/downloads)   [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)   [![Status](https://img.shields.io/badge/Status-Active-success.svg)]()
+ 
+
+
 
