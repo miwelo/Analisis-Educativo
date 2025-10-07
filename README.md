@@ -172,7 +172,9 @@ Este proyecto está bajo la licencia **MIT** — ver el archivo [LICENSE](LICENS
   </table>
 </div>
 
+<a href="https://github.com/Melquiiii11" target="_blank"><img src="https://github.com/Melquiiii11.png"></a> <a href="https://opencollective.com/Docusaurus/sponsor/1/website" target="_blank"><img src="https://opencollective.com/Docusaurus/sponsor/1/avatar.svg"></a>
 ---
+
 
 
 
