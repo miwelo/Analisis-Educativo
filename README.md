@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 ScorePy  
+# ScorePy  
 #### Herramienta de Análisis Educativo
 
 <picture>
@@ -25,25 +25,25 @@ Permite a instituciones académicas obtener **informes detallados y visuales** s
 
 ---
 
-## 🧩 Tipos de Análisis Incluidos
+## Tipos de Análisis Incluidos
 
 Cada análisis se basa en datos recopilados desde formularios personalizados, con la opción de seleccionar métricas específicas según las necesidades del usuario.
 
-- 📈 Relación entre horas de estudio y calificación  
-- 📚 Relación entre método de estudio y calificación  
-- 🧮 Promedio por método de estudio  
-- ⏱️ Promedio por rango de horas de estudio  
-- 🚨 Impacto de distracciones en el rendimiento  
-- 💬 Relación motivación vs promedio general  
-- 🧠 Recursos de estudio más utilizados  
-- 🔁 Frecuencia de repasos por semana  
-- 😊 Sentimiento del estudiante según su promedio  
+- Relación entre horas de estudio y calificación  
+- Relación entre método de estudio y calificación  
+- Promedio por método de estudio  
+- Promedio por rango de horas de estudio  
+- Impacto de distracciones en el rendimiento  
+- Relación motivación vs promedio general  
+- Recursos de estudio más utilizados  
+- Frecuencia de repasos por semana  
+- Sentimiento del estudiante según su promedio  
 
-> 💡 Debajo de cada reporte se genera un comentario automático que destaca el factor con mayor impacto.
+> Debajo de cada reporte se genera un comentario automático que destaca el factor con mayor impacto.
 
 ---
 
-## 🧱 Estructura del Repositorio
+## Estructura del Repositorio
 
 ```bash
 ScorePy/
@@ -70,7 +70,7 @@ ScorePy/
 
 ---
 
-## ⚙️ Instalación y Ejecución
+## Instalación y Ejecución
 
 ```bash
 # Clonar el repositorio
@@ -88,7 +88,7 @@ python main.py
 
 ---
 
-## 🖥️ Demostración Visual
+## Demostración Visual
 
 <p align="center">
   <img src="assets/panel.png" alt="Panel principal" width="90%">
@@ -110,19 +110,22 @@ python main.py
 
 ---
 
-## 📜 Licencia
+## Licencia
 
 Este proyecto está bajo la licencia **MIT** — ver el archivo [LICENSE](LICENSE) para más detalles.
 
 ---
 
-## 👤 Autor
+## Autores
 
-**miwelo**  
-[GitHub](https://github.com/miwelo)
+<p align="center">
+  <a href="https://github.com/miwelo">
+    <img src="https://github.com/miwelo.png" width="100" height="100" style="border-radius:50%;" alt="miwelo">
+  </a>
+  <br>
+  <b>miwelo</b><br>
+  <sub>Desarrollador principal de ScorePy</sub>
+</p>
 
 ---
 
-<p align="center">
-  <sub>✨ Desarrollado con Python — Transformando datos en decisiones educativas ✨</sub>
-</p>
