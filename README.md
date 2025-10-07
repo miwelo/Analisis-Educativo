@@ -125,14 +125,5 @@ Este proyecto está bajo la licencia **MIT** — ver el archivo [LICENSE](LICENS
   <a href="https://github.com/BrahyanPro"> <img src="https://github.com/BrahyanPro.png" width="100" height="100" style="border-radius: 50%;" alt="Brahyan Martínez"> </a>
   <a href="https://github.com/Melquiiii11"> <img src="https://github.com/Melquiiii11.png" width="100" height="100" style="border-radius: 50%;" alt="Angel Díaz"> </a>
 </div>
+
 ---
-
-
-
-
-
-
-
-
-
-
