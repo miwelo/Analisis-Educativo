@@ -35,5 +35,53 @@ Esta herramienta posee una serie de analisis predeterminados a base de un formul
 > Debajo de cada reporte se genera un comentario indicando el elemento con mayor valor
 ---
 
+## Estrcuctura del repositorio
 
+```
+ScorePy/
+│
+├── 📂 src/
+│   ├── analisis_datos.py
+│   ├── generar_html.py
+│   ├── graficos.py
+│   ├── interfaz.py
+│   ├── procesamiento.py
+│   └── img/
+│       ├── archivos.png
+│       ├── destino.png
+│       ├── footer.png
+│       ├── header.png
+│       ├── reportes.png
+│       └── svg.png
+│
+├── main.py
+├── requirements.txt
+├── python.ico
+└── README.md
+```
+---
 
+## Instalación
+
+```bash
+git clone https://github.com/miwelo/Analisis-Educativo.git
+cd Analisis-Educativo
+pip install -r requirements.txt
+python main.py
+```
+
+---
+
+## Demo
+
+`assets/panel.png`
+
+`assets/reporte1.png`
+
+`assets/reporte2.png`
+
+`assets/reporte3.png`
+
+`assets/reporte4.png`
+
+`assets/reporte5.png`
