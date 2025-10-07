@@ -169,7 +169,7 @@ class ExportedApp(ctk.CTk):
             bg_color="#BEBEBE",
             border_width=0,
         )
-        # svg.png se usa como icono de archivo CSV en la carpeta img
+
         self.csv_icon = load_image("svg.png", (25, 25))
         self.btn_csv = ctk.CTkButton(
             self,
@@ -216,7 +216,6 @@ class ExportedApp(ctk.CTk):
     < ------------------ Frame Reportes ------------------ >
     """
     def _build_reports_panel(self):
-        # Frame con scroll (sin fondo ni bordes visibles)
         self.reports_frame = ctk.CTkScrollableFrame(
             self,
             width=258,
