@@ -98,10 +98,6 @@ python main.py
   <img src="assets/reporte5.png" alt="Ejemplo Reporte 5" width="90%">
 </p>
 
-## Licencia
-
-Este proyecto está bajo la licencia **MIT** — ver el archivo [LICENSE](LICENSE) para más detalles.
-
 ## 👥 Autores
 
 <div align="center">
@@ -111,4 +107,5 @@ Este proyecto está bajo la licencia **MIT** — ver el archivo [LICENSE](LICENS
   <a href="https://github.com/BrahyanPro"> <img src="https://github.com/BrahyanPro.png" width="100" height="100" style="border-radius: 50%;" alt="Brahyan Martínez"> </a>
   <a href="https://github.com/Melquiiii11"> <img src="https://github.com/Melquiiii11.png" width="100" height="100" style="border-radius: 50%;" alt="Angel Díaz"> </a>
 </div>
+
 
