@@ -17,7 +17,7 @@
 
 ---
 
-## 🎯 Introducción
+## Introducción
 
 **ScorePy** es una herramienta desarrollada en **Python** enfocada en el **análisis de datos del rendimiento estudiantil** a partir de los hábitos y métodos de estudio.
 
@@ -123,9 +123,10 @@ Este proyecto está bajo la licencia **MIT** — ver el archivo [LICENSE](LICENS
     <img src="https://github.com/miwelo.png" width="100" height="100" style="border-radius:50%;" alt="miwelo">
   </a>
   <br>
-  <b>miwelo</b><br>
-  <sub>Desarrollador principal de ScorePy</sub>
+  <b>Miguel Inoa</b><br>
+  <sub>Desarrollador</sub>
 </p>
 
 ---
+
 
