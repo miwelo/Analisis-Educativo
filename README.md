@@ -118,36 +118,53 @@ Este proyecto está bajo la licencia **MIT** — ver el archivo [LICENSE](LICENS
 
 ## 👥 Autores
 
+## 👥 Autores
+
 <div align="center">
-  <table>
+  <table border="0" cellspacing="0" cellpadding="10">
     <tr>
-      <td align="center">
+      <td align="center" style="border: none;">
         <a href="https://github.com/miwelo">
-          <img src="https://github.com/miwelo.png" width="100" height="100" style="border-radius:50%;" alt="Miguel Inoa"><br>
+          <img src="https://github.com/miwelo.png" width="100" height="100" style="border-radius: 50%;" alt="Miguel Inoa">
+        </a>
+        <br>
+        <a href="https://github.com/miwelo">
           <sub><b>Miguel Inoa</b></sub>
         </a>
       </td>
-      <td align="center">
+      <td align="center" style="border: none;">
         <a href="https://github.com/aslyninmateo">
-          <img src="https://github.com/aslyninmateo.png" width="100" height="100" style="border-radius:50%;" alt="Asly Nin"><br>
+          <img src="https://github.com/aslyninmateo.png" width="100" height="100" style="border-radius: 50%;" alt="Asly Nin">
+        </a>
+        <br>
+        <a href="https://github.com/aslyninmateo">
           <sub><b>Asly Nin</b></sub>
         </a>
       </td>
-      <td align="center">
+      <td align="center" style="border: none;">
         <a href="https://github.com/francisco983412">
-          <img src="https://github.com/francisco983412.png" width="100" height="100" style="border-radius:50%;" alt="Francisco Concepción"><br>
+          <img src="https://github.com/francisco983412.png" width="100" height="100" style="border-radius: 50%;" alt="Francisco Concepción">
+        </a>
+        <br>
+        <a href="https://github.com/francisco983412">
           <sub><b>Francisco Concepción</b></sub>
         </a>
       </td>
-      <td align="center">
+      <td align="center" style="border: none;">
         <a href="https://github.com/BrahyanPro">
-          <img src="https://github.com/BrahyanPro.png" width="100" height="100" style="border-radius:50%;" alt="Brahyan Martínez"><br>
+          <img src="https://github.com/BrahyanPro.png" width="100" height="100" style="border-radius: 50%;" alt="Brahyan Martínez">
+        </a>
+        <br>
+        <a href="https://github.com/BrahyanPro">
           <sub><b>Brahyan Martínez</b></sub>
         </a>
       </td>
-      <td align="center">
+      <td align="center" style="border: none;">
         <a href="https://github.com/Melquiiii11">
-          <img src="https://github.com/Melquiiii11.png" width="100" height="100" style="border-radius:50%;" alt="Angel Díaz"><br>
+          <img src="https://github.com/Melquiiii11.png" width="100" height="100" style="border-radius: 50%;" alt="Angel Díaz">
+        </a>
+        <br>
+        <a href="https://github.com/Melquiiii11">
           <sub><b>Angel Díaz</b></sub>
         </a>
       </td>
@@ -156,6 +173,7 @@ Este proyecto está bajo la licencia **MIT** — ver el archivo [LICENSE](LICENS
 </div>
 
 ---
+
 
 
 
