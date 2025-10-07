@@ -1,6 +1,5 @@
 # 📊 ScorePy - Herramiento de Analisis Educativo
 
-[![Python](assets/scorepylight.jpg)]
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/scorepydark.jpeg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/scorepylight.jpg" />
