@@ -1,5 +1,6 @@
+<div align="center">
 
-# Analisis_Educativo
+# 📊 ScorePy - Analisis Educativo
 
 Bienvenido/a — este repositorio contiene una pequeña herramienta en Python para analizar encuestas sobre hábitos de estudio y generar reportes visuales en HTML. La documentación está escrita en un tono cercano y práctico, como si te lo explicara un colega (corto, claro y con ejemplos).
 
@@ -135,4 +136,5 @@ Para verificar que el entorno está bien:
 
 ```
 python -c "import pandas; import numpy; import matplotlib; import seaborn; print('OK')"
+
 ```
