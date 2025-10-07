@@ -1,6 +1,6 @@
 <div align="center">
 
-# ScorePy
+# 🧠 ScorePy  
 #### Herramienta de Análisis Educativo
 
 <picture>
@@ -9,35 +9,43 @@
   <img alt="ScorePy Banner" src="assets/scorepydark.jpeg" width="100%">
 </picture>
 
----
-
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/downloads)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-success.svg)]()
 
 </div>
 
-
-## Introducción
-ScorePy es una herramientas codificada en python enfocada al análisis de datos del rendimiento estudiantil a base de los habitos y metodos de estudio.
-
-
-Esta herramienta posee una serie de analisis predeterminados a base de un formulario, con la opcion de seleccionar los analisis requeridos por el cliente, dentro de los tipos de analisis tenemos:
-- Relación horas de estudio y calificación
-- Relación metodo de estudio y calificación
-- Promedio por metodo de estudio
-- Promedio por rango de horas de estudio
-- Impacto de distracciones en calificación
-- Relación motivación vs Promedio
-- Recursos de Estudio mas utilizados
-- Frecuencia de repasos por semana
-- Sentimiento del estudiante en base a promedio
-> Debajo de cada reporte se genera un comentario indicando el elemento con mayor valor
 ---
 
-## Estrcuctura del repositorio
+## 🎯 Introducción
 
-```
+**ScorePy** es una herramienta desarrollada en **Python** enfocada en el **análisis de datos del rendimiento estudiantil** a partir de los hábitos y métodos de estudio.
+
+Permite a instituciones académicas obtener **informes detallados y visuales** sobre el desempeño de los estudiantes, generando análisis automáticos y reportes interpretativos listos para presentación.
+
+---
+
+## 🧩 Tipos de Análisis Incluidos
+
+Cada análisis se basa en datos recopilados desde formularios personalizados, con la opción de seleccionar métricas específicas según las necesidades del usuario.
+
+- 📈 Relación entre horas de estudio y calificación  
+- 📚 Relación entre método de estudio y calificación  
+- 🧮 Promedio por método de estudio  
+- ⏱️ Promedio por rango de horas de estudio  
+- 🚨 Impacto de distracciones en el rendimiento  
+- 💬 Relación motivación vs promedio general  
+- 🧠 Recursos de estudio más utilizados  
+- 🔁 Frecuencia de repasos por semana  
+- 😊 Sentimiento del estudiante según su promedio  
+
+> 💡 Debajo de cada reporte se genera un comentario automático que destaca el factor con mayor impacto.
+
+---
+
+## 🧱 Estructura del Repositorio
+
+```bash
 ScorePy/
 │
 ├── 📂 src/
@@ -59,29 +67,62 @@ ScorePy/
 ├── python.ico
 └── README.md
 ```
+
 ---
 
-## Instalación
+## ⚙️ Instalación y Ejecución
 
 ```bash
+# Clonar el repositorio
 git clone https://github.com/miwelo/Analisis-Educativo.git
+
+# Entrar al directorio
 cd Analisis-Educativo
+
+# Instalar dependencias
 pip install -r requirements.txt
+
+# Ejecutar el programa
 python main.py
 ```
 
 ---
 
-## Demo
+## 🖥️ Demostración Visual
 
-![Panel principal](assets/panel.png)
+<p align="center">
+  <img src="assets/panel.png" alt="Panel principal" width="90%">
+</p>
 
-![EJemplo Reporte](assets/reporte1.png)
+<p align="center">
+  <img src="assets/reporte1.png" alt="Ejemplo Reporte 1" width="45%">
+  <img src="assets/reporte2.png" alt="Ejemplo Reporte 2" width="45%">
+</p>
 
-![EJemplo Reporte](assets/reporte2.png)
+<p align="center">
+  <img src="assets/reporte3.png" alt="Ejemplo Reporte 3" width="45%">
+  <img src="assets/reporte4.png" alt="Ejemplo Reporte 4" width="45%">
+</p>
 
-![EJemplo Reporte](assets/reporte3.png)
+<p align="center">
+  <img src="assets/reporte5.png" alt="Ejemplo Reporte 5" width="90%">
+</p>
 
-![EJemplo Reporte](assets/reporte4.png)
+---
 
-![EJemplo Reporte](assets/reporte5.png)
+## 📜 Licencia
+
+Este proyecto está bajo la licencia **MIT** — ver el archivo [LICENSE](LICENSE) para más detalles.
+
+---
+
+## 👤 Autor
+
+**miwelo**  
+[GitHub](https://github.com/miwelo)
+
+---
+
+<p align="center">
+  <sub>✨ Desarrollado con Python — Transformando datos en decisiones educativas ✨</sub>
+</p>
