@@ -20,7 +20,6 @@
 ---
 
 ## Acerca del proyecto
-
 ScorePy es una herramientas codificada en python enfocada al análisis de datos del rendimiento estudiantil a base de los habitos y metodos de estudio.
 
 ---
@@ -37,6 +36,7 @@ Esta herramienta posee una serie de analisis predeterminados, con la opcion de s
 - Sentimiento del estudiante en base a promedio
 
 ---
+
 
 
 
