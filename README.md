@@ -23,6 +23,8 @@
 
 ScorePy es una herramientas codificada en python enfocada al análisis de datos del rendimiento estudiantil a base de los habitos y metodos de estudio.
 
+---
+
 Esta herramienta posee una serie de analisis predeterminados, con la opcion de seleccionar los analisis requeridos por el cliente, dentro de los tipos de analisis tenemos:
 - Relación horas de estudio y calificación
 - Relación metodo de estudio y calificación
@@ -35,6 +37,7 @@ Esta herramienta posee una serie de analisis predeterminados, con la opcion de s
 - Sentimiento del estudiante en base a promedio
 
 ---
+
 
 
 
