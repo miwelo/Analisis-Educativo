@@ -118,18 +118,25 @@ Este proyecto está bajo la licencia **MIT** — ver el archivo [LICENSE](LICENS
 
 ## Autores
 
+## 👥 Autores
+
 <p align="center">
   <a href="https://github.com/miwelo">
-    <img src="https://github.com/miwelo.png" width="100" height="100" style="border-radius:50%;" alt="miwelo">
+    <img src="https://github.com/miwelo.png" width="90" height="90" style="border-radius:50%; margin: 5px;" alt="miwelo"/>
   </a>
-  <br>
-  <b>Miguel Inoa</b><br>
-  <sub>Desarrollador</sub>
+  <a href="https://github.com/aslyninmateo">
+    <img src="https://github.com/aslyninmateo.png" width="90" height="90" style="border-radius:50%; margin: 5px;" alt="usuario2"/>
+  </a>
+  <a href="https://github.com/BrahyanPro">
+    <img src="https://github.com/BrahyanPro.png" width="90" height="90" style="border-radius:50%; margin: 5px;" alt="usuario3"/>
+  </a>
+  <a href="https://github.com/francisco983412">
+    <img src="https://github.com/francisco983412.png" width="90" height="90" style="border-radius:50%; margin: 5px;" alt="usuario4"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>Equipo de desarrollo</b><br>
 </p>
 
 ---
-- [![miwelo](https://github.com/miwelo.png?size=60)](https://github.com/miwelo) **miwelo** — Desarrollador principal 
----
-
-
-
