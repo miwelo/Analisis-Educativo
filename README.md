@@ -119,15 +119,14 @@ Este proyecto está bajo la licencia **MIT** — ver el archivo [LICENSE](LICENS
 ## 👥 Autores
 
 <div align="center">
-
+  <a href="https://github.com/miwelo"> <img src="https://github.com/miwelo.png" width="100" height="100" style="border-radius: 50%;" alt="Miguel Inoa"> </a>
+  <a href="https://github.com/aslyninmateo"> <img src="https://github.com/aslyninmateo.png" width="100" height="100" style="border-radius: 50%;" alt="Asly Nin"> </a>
+  <a href="https://github.com/francisco983412"> <img src="https://github.com/francisco983412.png" width="100" height="100" style="border-radius: 50%;" alt="Francisco Concepción"> </a>
+  <a href="https://github.com/BrahyanPro"> <img src="https://github.com/BrahyanPro.png" width="100" height="100" style="border-radius: 50%;" alt="Brahyan Martínez"> </a>
+  <a href="https://github.com/Melquiiii11"> <img src="https://github.com/Melquiiii11.png" width="100" height="100" style="border-radius: 50%;" alt="Angel Díaz"> </a>
 </div>
-
-<a href="https://github.com/miwelo"> <img src="https://github.com/miwelo.png" width="100" height="100" style="border-radius: 50%;" alt="Miguel Inoa"> </a>
-<a href="https://github.com/aslyninmateo"> <img src="https://github.com/aslyninmateo.png" width="100" height="100" style="border-radius: 50%;" alt="Asly Nin"> </a>
-<a href="https://github.com/francisco983412"> <img src="https://github.com/francisco983412.png" width="100" height="100" style="border-radius: 50%;" alt="Francisco Concepción"> </a>
-<a href="https://github.com/BrahyanPro"> <img src="https://github.com/BrahyanPro.png" width="100" height="100" style="border-radius: 50%;" alt="Brahyan Martínez"> </a>
-<a href="https://github.com/Melquiiii11"> <img src="https://github.com/Melquiiii11.png" width="100" height="100" style="border-radius: 50%;" alt="Angel Díaz"> </a>
 ---
+
 
 
 
