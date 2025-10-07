@@ -74,14 +74,14 @@ python main.py
 
 ## Demo
 
-`assets/panel.png`
+![Panel principal](assets/panel.png)
 
-`assets/reporte1.png`
+![EJemplo Reporte](assets/reporte1.png)
 
-`assets/reporte2.png`
+![EJemplo Reporte](assets/reporte2.png)
 
-`assets/reporte3.png`
+![EJemplo Reporte](assets/reporte3.png)
 
-`assets/reporte4.png`
+![EJemplo Reporte](assets/reporte4.png)
 
-`assets/reporte5.png`
+![EJemplo Reporte](assets/reporte5.png)
