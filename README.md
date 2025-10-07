@@ -128,5 +128,8 @@ Este proyecto está bajo la licencia **MIT** — ver el archivo [LICENSE](LICENS
 </p>
 
 ---
+- [![miwelo](https://github.com/miwelo.png?size=60)](https://github.com/miwelo) **miwelo** — Desarrollador principal 
+---
+
 
 
