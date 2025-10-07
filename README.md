@@ -118,33 +118,34 @@ Este proyecto está bajo la licencia **MIT** — ver el archivo [LICENSE](LICENS
 
 ## 👥 Autores
 
-<p align="center">
-  <a href="https://github.com/miwelo">
-    <img src="https://github.com/miwelo.png" width="100" height="100" style="border-radius:50%; margin: 10px;" alt="Miguel Inoa">
-    <br><b>Miguel Inoa</b>
+<p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+  <a href="https://github.com/miwelo" style="text-align: center; text-decoration: none; color: inherit;">
+    <img src="https://github.com/miwelo.png" width="100" height="100" style="border-radius:50%;" alt="Miguel Inoa"><br>
+    <b>Miguel Inoa</b>
   </a>
 
-  <a href="https://github.com/aslyninmateo">
-    <img src="https://github.com/aslyninmateo.png" width="100" height="100" style="border-radius:50%; margin: 10px;" alt="Autor 2">
-    <br><b>Asly Nin</b>
+  <a href="https://github.com/aslyninmateo" style="text-align: center; text-decoration: none; color: inherit;">
+    <img src="https://github.com/aslyninmateo.png" width="100" height="100" style="border-radius:50%;" alt="Asly Nin"><br>
+    <b>Asly Nin</b>
   </a>
 
-  <a href="https://github.com/francisco983412">
-    <img src="https://github.com/francisco983412.png" width="100" height="100" style="border-radius:50%; margin: 10px;" alt="Autor 3">
-    <br><b>Francisco Concepción</b>
+  <a href="https://github.com/francisco983412" style="text-align: center; text-decoration: none; color: inherit;">
+    <img src="https://github.com/francisco983412.png" width="100" height="100" style="border-radius:50%;" alt="Francisco Concepción"><br>
+    <b>Francisco Concepción</b>
   </a>
 
-  <a href="https://github.com/BrahyanPro">
-    <img src="https://github.com/BrahyanPro.png" width="100" height="100" style="border-radius:50%; margin: 10px;" alt="Autor 4">
-    <br><b>Brahyan Martínez</b>
+  <a href="https://github.com/BrahyanPro" style="text-align: center; text-decoration: none; color: inherit;">
+    <img src="https://github.com/BrahyanPro.png" width="100" height="100" style="border-radius:50%;" alt="Brahyan Martínez"><br>
+    <b>Brahyan Martínez</b>
   </a>
 
-  <a href="https://github.com/usuario5">
-    <img src="https://github.com/usuario5.png" width="100" height="100" style="border-radius:50%; margin: 10px;" alt="Autor 5">
-    <br><b>Angel Díaz</b>
+  <a href="https://github.com/AngelDiaz" style="text-align: center; text-decoration: none; color: inherit;">
+    <img src="https://github.com/AngelDiaz.png" width="100" height="100" style="border-radius:50%;" alt="Angel Díaz"><br>
+    <b>Angel Díaz</b>
   </a>
 </p>
 
 ---
+
 
 
