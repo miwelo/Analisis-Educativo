@@ -4,9 +4,9 @@
   #### Herramienta de Análisis Educativo
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/scorepydark.jpeg" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/scorepydark.png" />
     <source media="(prefers-color-scheme: light)" srcset="assets/scorepylight.jpg" />
-    <img alt="ScorePy Banner" src="assets/scorepydark.jpeg" width="100%">
+    <img alt="ScorePy Banner" src="assets/scorepydark.png" width="100%">
   </picture>
   
   [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/downloads)
@@ -107,5 +107,6 @@ python main.py
   <a href="https://github.com/BrahyanPro"> <img src="https://github.com/BrahyanPro.png" width="100" height="100" style="border-radius: 50%;" alt="Brahyan Martínez"> </a>
   <a href="https://github.com/Melquiiii11"> <img src="https://github.com/Melquiiii11.png" width="100" height="100" style="border-radius: 50%;" alt="Angel Díaz"> </a>
 </div>
+
 
 
